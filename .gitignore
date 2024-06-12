@@ -2,3 +2,5 @@
 
 # Ignore DevSpace cache and log folder
 .devspace/
+.idea
+app/app/__pycache__
